@@ -28,7 +28,7 @@ Comprehensive list of important data structures and algorithms (DSA) topics in C
    - Priority queues
    - Deques
 
-6. **Hashing** - [Link](/hashmapnotes)
+6. **Hashing** - [Link](/professional-notes/cpp-notes/hashmapnotes)
    - Hash tables
    - Hash functions
    - Collision resolution techniques (chaining, open addressing)
