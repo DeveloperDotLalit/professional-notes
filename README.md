@@ -6,6 +6,8 @@ This repo will hold the notes for coding topics helpful for preparation, ideal f
 
 # Demo Link [cpp-topics](/professional-notes/cpp-notes/ "Cpp topics index page")
 
+[![Cpp Tut](https://eventos.uc3m.es/_files/_event/_105614/_header_img/_54624.jpg)](/professional-notes/cpp-notes)
+
 ---
 ---
 
