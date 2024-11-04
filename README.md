@@ -4,7 +4,7 @@ This repo will hold the notes for coding topics helpful for preparation, ideal f
 ---
 ---
 
-# Demo Link [cpp-hashmap-notes](https://developerdotlalit.github.io/professional-notes/cpp-notes/hashmapnotes 'Hashmap notes in cpp')
+# Demo Link [cpp-hashmap-notes](/professional-notes/cpp-notes/ "Cpp topics index page")
 
 ---
 ---
