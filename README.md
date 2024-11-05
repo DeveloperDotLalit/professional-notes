@@ -69,7 +69,7 @@ We welcome contributions from the developer community! If you’re interested in
 2. Create a feature branch for your work.
 3. Submit a pull request with a description of the updates or new content you've added.
 
-Please check out our [Contribution Guide](/professional-notes/contributors/guide) for detailed instructions on how to contribute.
+Please check out our [Contribution Guide](/professional-notes/project-info/contributors/guide) for detailed instructions on how to contribute.
 
 ---
 
