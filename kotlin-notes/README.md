@@ -1,12 +1,12 @@
 # **Stepwise Kotlin Learning Roadmap**
 
 ## **Step 1: Kotlin Basics**
-1. [**Introduction to Kotlin**](/professional-notes/kotlin-notes/intro-to-kotlin/)
+1. [**Introduction to Kotlin**](/professional-notes/kotlin-notes/intro-to-kotlin)
    - What is Kotlin?
    - Features and advantages
    - Installing Kotlin (JDK and IntelliJ setup)
 
-2. **Kotlin Syntax and Structure**
+2. [**Kotlin Syntax and Structure**](/professional-notes/kotlin-notes/kotlin-syntax-structure)
    - Writing your first Kotlin program
    - Basic syntax (keywords, identifiers)
    - Comments (single-line, multi-line)
