@@ -36,6 +36,7 @@ Explore tutorials across various subjects. Click on any topic to jump directly t
 | Language       | Subtopics                                                    |
 |----------------|--------------------------------------------------------------|
 | [**C++**](/professional-notes/cpp-notes/ "Cpp topics index page")        | [For Loops](cpp-notes/ForLoops/README.md), [Hash Maps](Cpp/HashMaps/README.md), [Binary Search](Cpp/BinarySearch/README.md) |
+| [**Kotlin**](/professional-notes/kotlin-notes/ "Kotlin topics index page")        | [Basics](cpp-notes/ForLoops/README.md), [Intermediate](Cpp/HashMaps/README.md), [Advanced](Cpp/BinarySearch/README.md) |
 | **Java**       | [OOP Basics](Java/OOPBasics/README.md), [Collections](Java/Collections/README.md), [Streams](Java/Streams/README.md) |
 | **Python**     | [Data Types](Python/DataTypes/README.md), [Functions](Python/Functions/README.md), [File Handling](Python/FileHandling/README.md) |
 
