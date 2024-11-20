@@ -70,6 +70,7 @@
 ---
 
 #### **6. Comparison: Kotlin vs. Java**
+
 | **Feature**          | **Kotlin**                | **Java**                   |
 |-----------------------|---------------------------|----------------------------|
 | Null Safety          | Built-in support          | Manual handling required   |
