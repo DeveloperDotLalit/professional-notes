@@ -1,7 +1,13 @@
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
 include:
   - README.md
+
+title: DevNotes: Your Step-by-Step Roadmap for Developer Success
+description: DevNotes is a comprehensive study resource designed for developers looking to switch careers or students aiming to master the world of development. Our platform provides in-depth, topic-by-topic explanations of various concepts, laid out as structured roadmaps for easy understanding. Each topic is presented with increasing difficulty levels, helping you progressively level up your skills. Whether you are preparing for a job transition or enhancing your knowledge, DevNotes offers the tools you need to succeed in your developer journey.
+show_downloads: false
