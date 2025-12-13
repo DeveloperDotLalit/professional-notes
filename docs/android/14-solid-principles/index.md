@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Solid Principles"
+parent: "Android"
 nav_order: 14
 has_children: true
 ---
 
-Welcome to the Solid Principles module. This section covers the following topics:
+Welcome to the Solid Principles section. Explore the modules below:
 
 ## Table of Contents
 

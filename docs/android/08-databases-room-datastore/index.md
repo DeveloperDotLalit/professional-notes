@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Databases Room Datastore"
+parent: "Android"
 nav_order: 8
 has_children: true
 ---
 
-Welcome to the Databases Room Datastore module. This section covers the following topics:
+Welcome to the Databases Room Datastore section. Explore the modules below:
 
 ## Table of Contents
 

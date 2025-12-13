@@ -11,7 +11,8 @@ search:
   heading_level: 2
   previews: 3
   
-color_scheme: dark
+# color_scheme: dark (Commented out to support System Preference)
+favicon_ico: /assets/images/favicon.png
 
 # Navigation
 back_to_top: true

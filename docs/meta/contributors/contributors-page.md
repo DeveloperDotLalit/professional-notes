@@ -1,4 +1,9 @@
-# 🎉 Contributors Page
+---
+layout: default
+title: "Contributors Page"
+parent: "Contributors"
+nav_order: 999
+---
 
 Welcome to the **Contributors Hub**! This page celebrates the individuals who’ve made significant contributions to the repository. We’re grateful for your dedication and support in making this tutorial repository a valuable resource for learners and developers alike.
 

@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Agile Soft Skills"
+parent: "Android"
 nav_order: 16
 has_children: true
 ---
 
-Welcome to the Agile Soft Skills module. This section covers the following topics:
+Welcome to the Agile Soft Skills section. Explore the modules below:
 
 ## Table of Contents
 

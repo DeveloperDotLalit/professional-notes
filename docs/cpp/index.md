@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Cpp"
+title: "C++"
 nav_order: 4
 has_children: true
 ---
 
-Welcome to the Cpp module. This section covers the following topics:
+Welcome to the C++ section. Explore the modules below:
 
 ## Table of Contents
 

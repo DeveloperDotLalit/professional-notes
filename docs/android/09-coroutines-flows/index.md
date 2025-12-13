@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Coroutines Flows"
+parent: "Android"
 nav_order: 9
 has_children: true
 ---
 
-Welcome to the Coroutines Flows module. This section covers the following topics:
+Welcome to the Coroutines Flows section. Explore the modules below:
 
 ## Table of Contents
 

@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-Welcome to the Kotlin module. This section covers the following topics:
+Welcome to the Kotlin section. Explore the modules below:
 
 ## Table of Contents
 

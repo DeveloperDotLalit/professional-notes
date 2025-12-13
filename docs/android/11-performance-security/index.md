@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Performance Security"
+parent: "Android"
 nav_order: 11
 has_children: true
 ---
 
-Welcome to the Performance Security module. This section covers the following topics:
+Welcome to the Performance Security section. Explore the modules below:
 
 ## Table of Contents
 

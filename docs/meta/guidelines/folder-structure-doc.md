@@ -1,4 +1,9 @@
-# Folder Structure Documentation
+---
+layout: default
+title: "Folder Structure Doc"
+parent: "Guidelines"
+nav_order: 999
+---
 
 This document outlines the folder structure strategy for storing tutorial pages across different subjects. This structure ensures modularity, clear organization, and ease of collaboration, with each topic and subtopic arranged to allow seamless, independent contributions.
 

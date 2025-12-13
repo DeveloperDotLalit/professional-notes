@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Android Fundamentals"
+parent: "Android"
 nav_order: 2
 has_children: true
 ---
 
-Welcome to the Android Fundamentals module. This section covers the following topics:
+Welcome to the Android Fundamentals section. Explore the modules below:
 
 ## Table of Contents
 

@@ -1,4 +1,9 @@
-# Branching Strategy Documentation
+---
+layout: default
+title: "Branching Strategy"
+parent: "Guidelines"
+nav_order: 999
+---
 
 This document outlines the branching strategy for managing code contributions and releases in our repository. This strategy ensures smooth collaboration, minimizes conflicts, and provides a clear workflow from feature development to production deployment.
 

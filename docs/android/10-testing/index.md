@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Testing"
+parent: "Android"
 nav_order: 10
 has_children: true
 ---
 
-Welcome to the Testing module. This section covers the following topics:
+Welcome to the Testing section. Explore the modules below:
 
 ## Table of Contents
 

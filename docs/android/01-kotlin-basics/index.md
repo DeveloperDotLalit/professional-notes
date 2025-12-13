@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Kotlin Basics"
+parent: "Android"
 nav_order: 1
 has_children: true
 ---
 
-Welcome to the Kotlin Basics module. This section covers the following topics:
+Welcome to the Kotlin Basics section. Explore the modules below:
 
 ## Table of Contents
 

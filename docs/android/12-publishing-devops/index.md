@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Publishing Devops"
+parent: "Android"
 nav_order: 12
 has_children: true
 ---
 
-Welcome to the Publishing Devops module. This section covers the following topics:
+Welcome to the Publishing Devops section. Explore the modules below:
 
 ## Table of Contents
 

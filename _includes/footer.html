@@ -1,7 +1,67 @@
 <footer class="site-footer">
-  {% if site.footer_content %}
+    {% if site.footer_content %}
     <div class="site-footer-content">
-      {{ site.footer_content }}
+        {{ site.footer_content }}
     </div>
-  {% endif %}
+    {% endif %}
+    <div style="margin-top: 1rem;">
+        <button id="theme-toggle" class="btn">Switch Theme</button>
+    </div>
 </footer>
+
+<script>
+    const toggleBtn = document.getElementById('theme-toggle');
+    const body = document.body;
+    const currentTheme = localStorage.getItem('theme');
+
+    if (currentTheme === 'dark') {
+        body.classList.add('dark-theme');
+    }
+
+    toggleBtn.addEventListener('click', () => {
+        body.classList.toggle('dark-theme');
+        let theme = 'light';
+        if (body.classList.contains('dark-theme')) {
+            theme = 'dark';
+        }
+        localStorage.setItem('theme', theme);
+    });
+</script>
+
+<style>
+    /* Default (Light) overrides if needed, essentially inheriting theme */
+
+    /* Dark Theme Overrides */
+    body.dark-theme {
+        --body-background: #111 !important;
+        --body-text: #eee !important;
+        --site-header-background: #1a1a1a !important;
+        --site-nav-background: #151515 !important;
+        --site-footer-background: #1a1a1a !important;
+        --code-background: #222 !important;
+        --border-color: #333 !important;
+        background-color: var(--body-background);
+        color: var(--body-text);
+    }
+
+    body.dark-theme .site-nav {
+        background-color: var(--site-nav-background);
+        border-right: 1px solid var(--border-color);
+    }
+
+    body.dark-theme .site-header {
+        background-color: var(--site-header-background);
+        border-bottom: 1px solid var(--border-color);
+    }
+
+    body.dark-theme table {
+        color: #eee;
+    }
+
+    body.dark-theme .code-example,
+    body.dark-theme div.highlighter-rouge,
+    body.dark-theme pre.highlight {
+        background-color: var(--code-background) !important;
+        border-color: var(--border-color) !important;
+    }
+</style>

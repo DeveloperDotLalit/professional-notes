@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Advanced Kotlin"
+parent: "Android"
 nav_order: 5
 has_children: true
 ---
 
-Welcome to the Advanced Kotlin module. This section covers the following topics:
+Welcome to the Advanced Kotlin section. Explore the modules below:
 
 ## Table of Contents
 

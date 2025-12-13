@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Design Patterns"
+parent: "Android"
 nav_order: 15
 has_children: true
 ---
 
-Welcome to the Design Patterns module. This section covers the following topics:
+Welcome to the Design Patterns section. Explore the modules below:
 
 ## Table of Contents
 

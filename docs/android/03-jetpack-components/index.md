@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Jetpack Components"
+parent: "Android"
 nav_order: 3
 has_children: true
 ---
 
-Welcome to the Jetpack Components module. This section covers the following topics:
+Welcome to the Jetpack Components section. Explore the modules below:
 
 ## Table of Contents
 

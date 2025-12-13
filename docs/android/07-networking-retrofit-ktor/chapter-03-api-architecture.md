@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Api Architecture"
+title: "API Architecture"
 parent: "Networking Retrofit Ktor"
 nav_order: 3
 ---

@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Debugging Tools"
+parent: "Android"
 nav_order: 17
 has_children: true
 ---
 
-Welcome to the Debugging Tools module. This section covers the following topics:
+Welcome to the Debugging Tools section. Explore the modules below:
 
 ## Table of Contents
 

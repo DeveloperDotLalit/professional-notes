@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "UI Compose"
+parent: "Android"
 nav_order: 6
 has_children: true
 ---
 
-Welcome to the UI Compose module. This section covers the following topics:
+Welcome to the UI Compose section. Explore the modules below:
 
 ## Table of Contents
 

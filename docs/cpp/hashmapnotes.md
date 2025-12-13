@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Hashmapnotes"
-parent: "Cpp"
+parent: "C++"
 nav_order: 999
 ---
 

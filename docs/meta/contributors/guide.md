@@ -1,4 +1,9 @@
-# 🤝 Welcome to the Contributors Guide
+---
+layout: default
+title: "Guide"
+parent: "Contributors"
+nav_order: 999
+---
 
 Thank you for your interest in contributing to the **DevNotes**! This guide will walk you through everything you need to know to get started, from our branching strategy and file structure to guidelines for creating consistent and high-quality content.
 

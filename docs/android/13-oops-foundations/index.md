@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "OOPS Foundations"
+parent: "Android"
 nav_order: 13
 has_children: true
 ---
 
-Welcome to the OOPS Foundations module. This section covers the following topics:
+Welcome to the OOPS Foundations section. Explore the modules below:
 
 ## Table of Contents
 

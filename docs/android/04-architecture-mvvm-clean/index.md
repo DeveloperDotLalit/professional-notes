@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "Architecture MVVM Clean"
+parent: "Android"
 nav_order: 4
 has_children: true
 ---
 
-Welcome to the Architecture MVVM Clean module. This section covers the following topics:
+Welcome to the Architecture MVVM Clean section. Explore the modules below:
 
 ## Table of Contents
 
