@@ -1,0 +1,22 @@
+<nav class="sidebar">
+  <input type="text" id="searchBox" placeholder="Search docs">
+
+  {% assign modules = site.pages | where_exp: "p", "p.path contains 'modules/'" %}
+  {% assign grouped = modules | group_by_exp: "p", "p.path | split:'/' | slice:1,1 | first" %}
+
+  {% for group in grouped %}
+    <div class="nav-group">
+      <h3>{{ group.name | capitalize }}</h3>
+      <ul>
+        {% for page in group.items %}
+          <li>
+            <a href="{{ page.url }}"
+               class="{% if page.url == page.url %}active{% endif %}">
+              {{ page.title }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</nav>
