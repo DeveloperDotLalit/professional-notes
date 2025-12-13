@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Intro To Kotlin"
+parent: "Kotlin"
+nav_order: 999
+---
+
 ## **Notes: Introduction to Kotlin**
 
 ---

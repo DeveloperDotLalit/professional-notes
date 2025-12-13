@@ -1,4 +1,9 @@
-# Hashmap Notes in C
+---
+layout: default
+title: "Hashmapnotes"
+parent: "Cpp"
+nav_order: 999
+---
 
 ## Over View
 

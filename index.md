@@ -1,104 +1,35 @@
 ---
-title: Developer Documentation
+layout: default
+title: Home
+nav_order: 1
+permalink: /
 ---
 
-# Welcome to Developer Documentation
+# Developer Notes Portal
+{: .fs-9 }
 
-This documentation is designed as a **single source of truth** for learning, reference, and interview preparation across Android, Kotlin, system design, and related engineering topics.
-
-It is structured in a **module-based format**, making it easy to learn progressively or jump directly to specific topics.
-
----
-
-## Who This Documentation Is For
-
-- Android Developers (Beginner → Advanced)
-- Software Engineers preparing for interviews
-- Developers looking for clean explanations with real-world scenarios
-- Engineers who want structured, searchable documentation
+Your comprehensive roadmap for mastering modern development.
+{: .fs-6 .fw-300 }
 
 ---
 
-## How to Use This Documentation
+## Select your Path
 
-You can use this documentation in multiple ways:
+<div class="code-example" markdown="1">
+| [**🤖 Android Development**](docs/android/) | [**💜 Kotlin Language**](docs/kotlin/) | [**⚡ C++ Programming**](docs/cpp/) |
+| :--- | :--- | :--- |
+| Master the Android ecosystem, from Activities to Jetpack Compose. | Deep dive into the language mechanics, coroutines, and best practices. | detailed notes on memory management and high-performance coding. |
+</div>
 
-- 📘 **Learn a topic end-to-end** by following a module sequentially
-- 🔍 **Quick reference** using search
-- 🎯 **Interview preparation** using interview-focused sections
-- 🧭 **Revision** before coding rounds or system design interviews
+## Quick Links
 
----
-
-## Documentation Structure
-
-Each module follows a consistent structure:
-
-- **Introduction** – Core concepts and fundamentals
-- **Theory** – Deep explanation with examples
-- **Scenarios** – Real-world use cases
-- **Best Practices** – Production-level guidance
-- **Interview Questions** – Frequently asked questions
+- [**System Design & Meta**](docs/meta/)
+- [**Contribution Guidelines**](docs/meta/contributors-page.md)
 
 ---
 
-## Available Modules
+## About
+This repository is designed as a structured learning path. Each module builds upon the previous one.
+We follow the philosophy of "Why?" before "How?".
 
-### Kotlin
-- Language fundamentals
-- Coroutines & Flow
-- Null safety & immutability
-- Interview-focused explanations
-
-### Android
-- Activity & Fragment lifecycle
-- Services & Content Providers
-- App architecture & performance
-- SDK & framework-level topics
-
-### System Design
-- High-Level Design (HLD)
-- Low-Level Design (LLD)
-- Mobile system design case studies
-
-### Interviews
-- Android interview questions
-- Kotlin interview questions
-- Behavioral preparation
-
----
-
-## Getting Started
-
-👉 **New to the documentation?**
-Start with:
-- Kotlin → Introduction
-- Android → Introduction
-
-👉 **Preparing for interviews?**
-Jump directly to:
-- Interviews module
-- System Design module
-
----
-
-## Contribution & Maintenance
-
-This documentation is:
-- Markdown-based
-- Easy to extend
-- Open for continuous improvement
-
-New modules and pages automatically appear in navigation without manual configuration.
-
----
-
-## Philosophy
-
-> “Good documentation should teach, not just explain.”
-
-This site focuses on **clarity**, **real-world relevance**, and **interview readiness**.
-
----
-
-Happy Learning 🚀
+Happy Learning!

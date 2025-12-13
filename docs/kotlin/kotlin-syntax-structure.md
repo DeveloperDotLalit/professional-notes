@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Kotlin Syntax Structure"
+parent: "Kotlin"
+nav_order: 999
+---
+
 ### **Notes: Kotlin Syntax and Structure**
 
 ---
