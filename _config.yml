@@ -1,26 +1,47 @@
-title: DevNotes- Your Step-by-Step Roadmap for Developer Success!
-description: DevNotes is a comprehensive study resource designed for developers looking to switch careers or students aiming to master the world of development. Our platform provides in-depth, topic-by-topic explanations of various concepts, laid out as structured roadmaps for easy understanding. Each topic is presented with increasing difficulty levels, helping you progressively level up your skills. Whether you are preparing for a job transition or enhancing your knowledge, DevNotes offers the tools you need to succeed in your developer journey.
-show_downloads: false
-theme: null
-markdown: kramdown
+title: DevNotes
+description: Your Step-by-Step Roadmap for Developer Success!
+author: DevNotes
 
-collections:
-  modules:
-    output: true
-    permalink: /:collection/:path/
+# Theme
+remote_theme: just-the-docs/just-the-docs
+
+# Theme Settings
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  
+color_scheme: dark
+
+# Navigation
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Aux Links (Top right)
+aux_links:
+  "GitHub Repository": "https://github.com/DeveloperDotLalit/professional-notes"
+
+# Footer
+footer_content: "Copyright &copy; 2024 DevNotes. All rights reserved."
+
+# Permalinks
+permalink: /:path/
 
 defaults:
   - scope:
       path: ""
     values:
-      layout: page
+      layout: "default"
+
 
 plugins:
+  - jekyll-seo-tag
   - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 
