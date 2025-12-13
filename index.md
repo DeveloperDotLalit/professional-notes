@@ -15,11 +15,11 @@ Your comprehensive roadmap for mastering modern development.
 
 ## Select your Path
 
-<div class="code-example" markdown="1">
-| [**🤖 Android Development**](docs/android/) | [**💜 Kotlin Language**](docs/kotlin/) | [**⚡ C++ Programming**](docs/cpp/) |
+| 🤖 **Android Development** | 💜 **Kotlin Language** | ⚡ **C++ Programming** |
 | :--- | :--- | :--- |
-| Master the Android ecosystem, from Activities to Jetpack Compose. | Deep dive into the language mechanics, coroutines, and best practices. | detailed notes on memory management and high-performance coding. |
-</div>
+| [Explore Android Docs](docs/android/) | [Explore Kotlin Docs](docs/kotlin/) | [Explore C++ Docs](docs/cpp/) |
+| Master the Android ecosystem, from Activities to modern UI frameworks. | Deep dive into language mechanics, coroutines, and best practices. | Detailed notes on memory management and high-performance coding. |
+
 
 ## Quick Links
 
