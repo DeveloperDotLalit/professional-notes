@@ -8,6 +8,7 @@ Welcome to the **DevNotes** — your essential guide to mastering programming co
 
 🚀 **Now Available on the App**: Download our app to get access to all tutorials, organized by topic and subtopic for quick, last-minute reference.
 
+### [**Android Notes**](/professional-notes/android-notes/ "All about Android") 
 ---
 
 ## 🗂 **Table of Contents**
